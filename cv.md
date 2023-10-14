@@ -42,3 +42,21 @@ ___
 ## Experience:
 * [CV site](https://deploy-preview-4--warm-malabi-2ff8f9.netlify.app/)
 ___
+## Education and Courses:
+* [RSSchool](https://rs.school/)
+* [CodeAcadamy](https://www.codecademy.com/)
+* [W3schools](https://www.w3schools.com/)
+* [Freecodecamp](https://www.freecodecamp.org/)
+* [SheCodes](https://www.shecodes.io/)
+* [Ru.code-basics](https://ru.code-basics.com/)
+* [Udemy]()
+* [App Mimo]()
+
+also other sources of information(books, youtube, google ,etc...)
+___
+## Languages:
+* English: A2
+* Polish: B1-B2
+* Spanish: A2
+* Ukrainian: native
+* Russian: native
