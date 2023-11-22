@@ -37,10 +37,14 @@ img{vertical-align: top;}
 
 /*h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}*/
 
+body{
+  background-color: #000;
+}
+
 .wrapper-container{
   margin: 0 auto;
   width: 1400px;
-  background-color: #31034e;
+  background-color: #32034f;
 }
 
 .center-container{
@@ -148,7 +152,10 @@ header{
 }
 
 .contact-list{
-  background-color: #131212;
+  background-color: #7d4eb35c;
+  color: #fff;
+  line-height: 150%;
+  border-radius: 15px;
   font-size: 20px;
   margin-left: 40px;
   padding: 10px;
