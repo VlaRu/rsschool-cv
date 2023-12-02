@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   border: 0;
-  
+
 }
 
 *,*:before,*:after{
@@ -34,7 +34,9 @@ a,a:visited{text-decoration: none; color: inherit;}
 ul li{list-style: none;}
 img{vertical-align: top;}
 
-
+html {
+  scroll-behavior: smooth;
+}
 /*h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}*/
 
 body{
@@ -82,7 +84,7 @@ header{
 
 main{
   color: #ffffff74;
-}  
+}
 
 header{
   text-align: center;
