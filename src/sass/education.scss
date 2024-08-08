@@ -1,0 +1,29 @@
+.section-education {
+  position: relative;
+}
+
+.list_edu-element {
+  margin-bottom: 20px;
+}
+
+.hover-image {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 100px;
+  width: 80%;
+  max-height: 400px;
+  margin-left: 10px;
+  z-index: 10;
+}
+
+.show-sertificate {
+  color: black;
+  &:hover {
+    cursor: pointer;
+
+    .hover-image {
+      display: block;
+    }
+  }
+}
