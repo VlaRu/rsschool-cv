@@ -1,6 +1,6 @@
 # Resume site
 
-### Link to deploy [cv](https://vlaru.github.io/rsschool-cv/index.html)
+### Link to deploy [cv](https://vlaru.github.io/CV/src/index.html)
 
 ### Stack
 
