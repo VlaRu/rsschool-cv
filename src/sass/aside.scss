@@ -8,6 +8,12 @@
   left: -250px;
   transform: rotate(-90deg);
   font-size: 55px;
+  @media (max-width: $tablet-pro){
+   left: -200px;
+  }
+  @media (max-width: $mobile){
+    top: 40%;
+  }
 }
 
 .aside-section {
@@ -18,6 +24,13 @@
   align-items: center;
   padding: 20px;
   color: $col-lg-green;
+  @media (max-width: $tablet-pro){
+    width: 100vw;
+    height: 110vh;
+  }
+  @media (max-width: $mobile){
+    @include place(column, start, center);
+  }
 }
 
 .img-container {

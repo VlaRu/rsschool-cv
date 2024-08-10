@@ -9,8 +9,9 @@ $main-col: linear-gradient(
 );
 $col-lg-green: #00ffbb;
 $hover-col: #227d64;
-$mobile: 365px;
+$mobile: 550px;
 $tablet: 768px;
+$tablet-pro: 950px;
 $trn: transform 0.3s ease;
 
 //@include fontz(px, 00);
@@ -32,5 +33,5 @@ $trn: transform 0.3s ease;
 }
 
 %tplborder-radius {
-  border-radius: 25px;
+  border-radius: 35px 0 0 35px;
 }
