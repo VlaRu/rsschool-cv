@@ -10,8 +10,13 @@ export function hideSections() {
 export function navigation() {
   navigationList.forEach((tab, index) => {
     tab.addEventListener('click', () => {
-        hideSections();
-        navigationElements[index].classList.remove('none');
+      hideSections();
+      navigationElements[index].classList.remove('none');
+      navigationList.forEach(tab => {
+        tab.classList.remove('bg');
+      });
+
+      tab.classList.add('bg');
     });
   });
 }
