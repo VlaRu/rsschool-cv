@@ -29,6 +29,7 @@
     height: 110vh;
   }
   @media (max-width: $mobile){
+    height: 80vh;
     @include place(column, start, center);
   }
 }

@@ -48,9 +48,11 @@ body {
 }
 
 .section {
+  height: 80%;
   margin: 40px 40px 0 40px;
-  @media (max-width: $mobile){
+  @media (max-width: $tablet){
     margin: 0 10px;
+    height: auto;
   }
 }
 
